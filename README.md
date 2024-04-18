@@ -10,7 +10,16 @@ Many thanks ❤️ go to
 
 ## Developer Guide
 
-In the project directory, you can run:
+### Prerequisites
+
+Configure your [OpenAI API key](https://platform.openai.com/account/api-keys) in a file named `./.env`:
+
+```shell
+OPENAI_API_KEY_NAME=Your API key name
+OPENAI_API_KEY=Error: You need to enter your OpenAI API key in the .env file
+```
+
+**Attention:** Do not commit your API key to the repository.
 
 ### `npm start`
 
